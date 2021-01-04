@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2020 eCOA ARR File Processing", "2020 eCOA ARR File Processing\2020 eCOA ARR File Processing.pyproj", "{E8A9E5B5-BDBF-4F55-A9C7-630F9EDF51CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8A9E5B5-BDBF-4F55-A9C7-630F9EDF51CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A9E5B5-BDBF-4F55-A9C7-630F9EDF51CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A4D2407-743E-4DD1-8ACB-4196C10B52E7}
+	EndGlobalSection
+EndGlobal
